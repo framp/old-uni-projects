@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Clock-0.svg</file>
+        <file>resources/Clock-1.svg</file>
+        <file>resources/FlipFlop-0.svg</file>
+        <file>resources/FlipFlop-1.svg</file>
+        <file>resources/Gate-???-0.svg</file>
+        <file>resources/Gate-???-1.svg</file>
+        <file>resources/Gate-AND-0.svg</file>
+        <file>resources/Gate-AND-1.svg</file>
+        <file>resources/Gate-NAND-0.svg</file>
+        <file>resources/Gate-NAND-1.svg</file>
+        <file>resources/Gate-NOR-0.svg</file>
+        <file>resources/Gate-NOR-1.svg</file>
+        <file>resources/Gate-OR-0.svg</file>
+        <file>resources/Gate-OR-1.svg</file>
+        <file>resources/Gate-XNOR-0.svg</file>
+        <file>resources/Gate-XNOR-1.svg</file>
+        <file>resources/Gate-XOR-0.svg</file>
+        <file>resources/Gate-XOR-1.svg</file>
+        <file>resources/Input-0.svg</file>
+        <file>resources/Input-1.svg</file>
+        <file>resources/Inverter-0.svg</file>
+        <file>resources/Inverter-1.svg</file>
+        <file>resources/Output-0.svg</file>
+        <file>resources/Output-1.svg</file>
+        <file>resources/Wire-0.svg</file>
+        <file>resources/Wire-1.svg</file>
+    </qresource>
+</RCC>
